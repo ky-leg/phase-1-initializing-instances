@@ -8,7 +8,7 @@ class Breakfast {
 
 class Lunch {
     constructor (salad, soup, drink){
-        this.sadad = salad
+        this.salad = salad
         this.soup = soup
         this.drink = drink
     }
